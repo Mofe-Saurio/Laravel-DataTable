@@ -24,7 +24,10 @@ Actualizamos el composer
 ```bash
 composer update
 ```
-Generamos una key si es necesario
+Creamos el archivo .env a partir de .env.example en la raiz del proyecto 
+<p align="center"><img src="https://raw.githubusercontent.com/Mofe-Saurio/Laravel-DataTable/master/public/img/env.png" width="700"></p>
+
+Generamos la llave del proyecto
 ```bash
 php artisan key:generate
 ```
