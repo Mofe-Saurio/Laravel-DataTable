@@ -18,7 +18,7 @@ DataTable con el package Yajra DataTables
 Clonar el repositorio
 
 ```bash
-git clone git@github.com:Mofe-Saurio/Laravel-DataTable.git
+git clone https://github.com/Mofe-Saurio/Laravel-DataTable.git
 ```
 Actualizamos el composer
 ```bash
