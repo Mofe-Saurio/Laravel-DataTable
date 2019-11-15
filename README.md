@@ -49,7 +49,7 @@ Iniciamos el servidor
 php artisan serve
 ```
 
-<p align="center"><img src="https://raw.githubusercontent.com/Mofe-Saurio/Laravel-DataTable/master/public/img/datatable.PNG" width="400"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Mofe-Saurio/Laravel-DataTable/master/public/img/datatable.PNG" width="700"></p>
 
 ## Documentación
 - [Laravel DataTables Quick Starter](https://yajrabox.com/docs/laravel-datatables/master/quick-starter)

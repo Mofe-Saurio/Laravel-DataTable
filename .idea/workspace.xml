@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a83a2e9-6b72-4676-915b-284f42acb220" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -119,6 +120,7 @@
   <component name="ProjectId" id="1TcrAnx1uOIsOkvrTFwkkQfu0KZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -154,7 +156,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573770085104</updated>
       <workItem from="1573770088864" duration="16000" />
-      <workItem from="1573770126366" duration="5987000" />
+      <workItem from="1573770126366" duration="6070000" />
     </task>
     <servers />
   </component>
