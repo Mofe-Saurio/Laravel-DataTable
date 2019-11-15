@@ -25,7 +25,7 @@ Actualizamos el composer
 composer update
 ```
 Creamos el archivo .env a partir de .env.example en la raiz del proyecto 
-<p align="center"><img src="https://raw.githubusercontent.com/Mofe-Saurio/Laravel-DataTable/master/public/img/env.png" width="700"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Mofe-Saurio/Laravel-DataTable/master/public/img/env.png"></p>
 
 Generamos la llave del proyecto
 ```bash
