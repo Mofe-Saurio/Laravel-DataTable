@@ -43,6 +43,10 @@ Realizar la migración
 ```bash
 php artisan migrate
 ```
+Generamos data de prueba
+```bash
+php artisan db:seed
+```
 
 Iniciamos el servidor
 ```bash
